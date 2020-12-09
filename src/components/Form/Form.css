@@ -1,0 +1,9 @@
+.form-div {
+	width: 30%;
+	/* border-color: #0e1306e8; */
+	background-color: #3325c7;
+}
+.form-input-width {
+	width: 100%;
+	outline: none;
+}
